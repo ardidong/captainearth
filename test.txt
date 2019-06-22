@@ -1,1 +1,9 @@
-aaa
+git add . 
+//untuk menambah perubahan ke repository lokal
+git commit -m 'comment'
+// meng komit dan menambahkan komen perubahan
+git push
+// upload perubahan ke repository remote
+
+git pull 
+// mengambil dari repo remote
